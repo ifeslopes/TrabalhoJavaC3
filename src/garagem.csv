@@ -1,0 +1,12 @@
+Volkswagen;Gol;100.0;5095.0;500;ABC-1234;C;4;false;10
+Chevrolet;Onix;120.0;8075.0;600;DEF-5678;C;4;false;10
+Ford;Ka;90.0;3000.0;0;GHI-9012;C;4;true;20
+Fiat;Palio;80.0;4000.0;0;JKL-3456;C;4;false;25
+Toyota;Corolla;150.0;10000.0;700;MNO-7890;C;4;true;17
+Honda;Civic;140.0;9000.0;600;PQR-2345;C;4;false;21
+Renault;Sandero;95.0;3500.0;0;STU-6789;C;4;true;4
+Yamaha;MT-07;150.0;2000.0;0;UVW-4321;M;1;false;14
+Honda;CBR600RR;200.0;3000.0;0;XYZ-9876;M;2;false;5
+Honda;600;100.0;5000.0;500;ABC-888;M;2;true;3
+Volkswagen;Gol;100.0;5555.0;500;ABC-999;C;2;false;1
+aaaaaa;aaaaaaa;10000.0;10.0;50000;bbbbbbbbb;C;2;false;0
